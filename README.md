@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vibhanshu Botke</h1>
 <h3 align="center">Enthusiastic Data Scientist Pioneering Future Insights...</h3>
 <img align="right" width="400" src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952fsqpq3lisbnqr3232vhtuqtte01t4ka1ufxblxab&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="VibhanshuBotke" />
-<p style="text-align: justify;">I'm a pre-final year student at NIT Surat, specializing in Electrical Engineering. From early on, I've been captivated by technology and software, fueling my passion to explore the dynamic software industry. My journey has seen me develop a diverse skill set, not confined to just programming languages. I'm proficient in full-stack web development (HTML, CSS, JavaScript, EJS, React, Node.js, Express.js, MongoDB), alongside Java, Python, and C. Motivated by an unyielding curiosity for emerging technologies, I've ventured into the realms of data science and AI.</p>
+<p style="text-align: justify;">I'm a final year student at NIT Surat, specializing in Electrical Engineering. From early on, I've been captivated by technology and software, fueling my passion to explore the dynamic software industry. My journey has seen me develop a diverse skill set, not confined to just programming languages. I'm proficient in full-stack web development, alongside Java, Python, and C. Motivated by an unyielding curiosity for emerging technologies, I've ventured into the realms of data science and AI.</p>
 - 📫 connect with me at **vibha23703@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
